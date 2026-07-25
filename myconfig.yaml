@@ -1,2 +1,3 @@
 rules:
   - GEOSITE,apple-tvplus,选择代理
+  - DOMAIN-KEYWORD,52101,DIRECT
